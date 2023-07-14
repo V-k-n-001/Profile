@@ -197,7 +197,6 @@ li {
     height: 50vh;
     display: -webkit-box;
     display: -ms-flexbox;
-    border-radius: 50%;
     display: flex;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
@@ -210,7 +209,7 @@ li {
   .about .profile-img img {
     height: 335px;
     width: 320px;
-    border-radius: 15px;
+    border-radius: 50%;
   }
   
   .contact {
