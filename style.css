@@ -207,9 +207,9 @@ li {
   }
   
   .about .profile-img img {
-    height: 335px;
-    width: 320px;
-    border-radius: 50%;
+    height: 340px;
+    width: 300px;
+    border-radius: 10px;
   }
   
   .contact {
