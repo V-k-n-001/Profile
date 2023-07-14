@@ -197,7 +197,7 @@ li {
     height: 50vh;
     display: -webkit-box;
     display: -ms-flexbox;
-    border-radius: 100%;
+    border-radius: 50%;
     display: flex;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
