@@ -207,9 +207,15 @@ li {
   }
   
   .about .profile-img img {
+<<<<<<< HEAD
     height: 335px;
     width: 320px;
     border-radius: 15px;
+=======
+    height: 340px;
+    width: 300px;
+    border-radius: 10px;
+>>>>>>> feaf677aac6f61f4f225dd2cce24db116438e18c
   }
   
   .contact {
@@ -499,4 +505,8 @@ li {
       width: 100%;
     }
   }
+<<<<<<< HEAD
   /*# sourceMappingURL=style.css.map */
+=======
+  /*# sourceMappingURL=style.css.map */
+>>>>>>> feaf677aac6f61f4f225dd2cce24db116438e18c
